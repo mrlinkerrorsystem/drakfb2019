@@ -1,10 +1,11 @@
-Username : asulokentod
-Password : rezatampans
+# Cara install Toolsnya/Jalankanya
+Username : Mrlink
+Password : ganteng
 
 pkg install python2
 pkg install git
-git clone https://github.com/rezadkim/dark-fb
-cd dark-fb
+git clone https://github.com/mrlinkerrorsystem/drakfb2019/
+cd darkfb2019
 pip2 install requests
 pip2 install mechanize
-python2 dark.py
+python2 darkfbFast.py

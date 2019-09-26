@@ -1,6 +1,6 @@
 # Cara install Toolsnya/Jalankanya
-# Username : Mrlink
-# Password : ganteng
+# Username : pantek12345
+# Password : pantek12345
 
 # pkg install python2
 # pkg install git
